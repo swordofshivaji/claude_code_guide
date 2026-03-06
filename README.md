@@ -1,6 +1,8 @@
 # Claude Code Guide  
 **Vibe Coder Edition**  
 
+<img src="image2.png" alt="Claude Code Guide Banner" width="110%">
+
 How to talk to Claude so it actually ships instead of philosophizing
 
 2025–2026 era • for people who say "vibe check", "slaps", "just ✨vibes✨"
